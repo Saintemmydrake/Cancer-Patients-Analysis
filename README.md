@@ -1,7 +1,6 @@
 # Cancer Patients Analysis
 # Project Overview
-The objective of this project is to conduct a comprehensive analysis of cancer patients data to identify patterns, trends and significant factors influencing patients outcomes. This analysis aims to provide that 
-can contribute to improved diagnosis, treatments, overall patient care.
+The objective of this project is to conduct a comprehensive analysis of cancer patients data to identify patterns, trends and significant factors influencing patients outcomes. This analysis aims to contribute to improved diagnosis, treatments, overall patient care.
 # Microsoft Excel : this tool was used for;
 * Data Entry
 * Data preparation
